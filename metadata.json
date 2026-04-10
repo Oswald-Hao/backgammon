@@ -1,0 +1,5 @@
+{
+  "name": "Gomoku AI",
+  "description": "A Gomoku (Five in a Row) game where you play against an AI opponent.",
+  "requestFramePermissions": []
+}
